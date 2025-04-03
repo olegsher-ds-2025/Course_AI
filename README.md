@@ -34,8 +34,51 @@ Super AI (Beyond Human Intelligence, Theoretical)<br />
 ### AI Subfields<hr />
 ![Machine Learning](1710750874997.jfif)<br />
 Machine Learning (ML): Algorithms that learn from data to make predictions.<br />
+ - Supervised Learning: Trains models on labeled data to predict outputs based on input features.<br />
+ -- Classification: Assigns input data to predefined categories.<br />
+ -- Regression: Predicts continuous numerical values from input data.<br />
+ -- Neural Networks: Models complex patterns using interconnected layers of nodes.<br />
+ - Unsupervised Learning: Identifies hidden patterns in data without labels.<br />
+ -- Clustering: Groups similar data points together.<br />
+ -- Dimensionality Reduction: Reduces the number of input variables to simplify models.<br />
+ -- Anomaly Detection: Identifies outliers or unusual data points.<br />
+ -- Association Rules: Discovers relationships between variables in large datasets.<br />
+ - Reinforcement Learning: Trains agents to make decisions through rewards and penalties.<br />
+ -- Model-Based: Uses a model of the environment to plan actions.<br />
+ -- Model-Free: Learns actions directly from experience without an explicit model.<br />
+ -- Policy Gradient Methods: Optimizes decision policies directly.<br />
+ -- Q-Learning: Estimates the value of actions to maximize future rewards.<br />
+ - Semi-Supervised Learning: Combines a small amount of labeled data with a large amount of unlabeled data.<br />
+ - Self-Supervised Learning: Uses the data itself to generate labels for training.<br />
+ - Transfer Learning: Applies knowledge from one task to improve performance on another.<br />
+ - Deep Learning: Uses deep neural networks to model complex data patterns.<br />
+ -- Convolutional Neural Networks (CNNs): Specialized for processing grid-like data such as images.<br />
+ -- Recurrent Neural Networks (RNNs): Processes sequential data by retaining information from previous inputs.<br />
+ -- Long Short-Term Memory Networks (LSTMs): A type of RNN that handles long-term dependencies in sequential data.<br />
+ -- Generative Adversarial Networks (GANs): Pits two neural networks against each other to generate realistic data.<br />
+ -- Autoencoders: Learns efficient representations of data for tasks like compression.<br />
+
+
 Deep Learning: A subset of ML using neural networks for complex pattern recognition.<br />
-Natural Language Processing (NLP): AI-driven language understanding (e.g., chatbots, translation).<br />
+
+#### Natural Language Processing (NLP): AI-driven language understanding (e.g., chatbots, translation).<br />
+ - Text Analysis: Processes and interprets textual data.<br />
+ - Sentiment Analysis: Determines the emotional tone of text.<br />
+ - Named Entity Recognition (NER): Identifies and classifies entities like names and dates in text.<br />
+ - Part-of-Speech Tagging: Labels words in a text with their grammatical roles.<br />
+ - Machine Translation: Automatically translates text from one language to another.<br />
+ - Statistical Machine Translation: Uses statistical models to translate text.<br />
+ - Neural Machine Translation: Utilizes deep learning models for more accurate translations.<br />
+ - Speech Recognition: Converts spoken language into text.<br />
+ - Automatic Speech Recognition (ASR): Transcribes speech into written text automatically.<br />
+ - Language Modeling: Predicts the likelihood of a sequence of words in a language.<br />
+ - Chatbots and Conversational AI: Simulates human conversation through text or voice.<br />
+ - Information Retrieval: Finds relevant information in large datasets, like search engines.<br />
+ - Text-to-Speech (TTS): Converts written text into spoken language.<br />
+ - Speech-to-Text (STT): Converts spoken language into text.<br />
+ - Summarization: Produces concise summaries of longer texts.<br />
+ - Extractive Summarization: Selects key sentences from the original text.<br />
+ - Abstractive Summarization: Generates new sentences that convey the main ideas.<br />
 
 #### Computer Vision: AI analyzing and interpreting images and videos.<br />
  - Image Processing: Enhances or manipulates images for analysis.<br />
