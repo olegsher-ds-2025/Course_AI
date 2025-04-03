@@ -109,6 +109,12 @@ Deep Learning: A subset of ML using neural networks for complex pattern recognit
  - Computer Vision in Robotics: Applies vision techniques to enhance robot functionality.<br />
  
 Expert Systems: AI mimicking human expertise in specific domains.
+ - Rule-Based Expert Systems: Uses predefined rules to make decisions.<br />
+ - Fuzzy Expert Systems: Handles uncertain and imprecise information.<br />
+ - Neural Expert Systems: Combines neural networks with expert systems for decision-making.<br />
+ - Bayesian Expert Systems: Uses Bayesian probability to model uncertainty in decision-making.<br />
+ - Knowledge Engineering: Involves creating knowledge bases for expert systems.<br />
+ - Inference Engines: Processes rules and knowledge to derive conclusions.<br />
 
 ### AI in Business & Industry<hr />
 Data-Driven Decision Making: AI analyzes vast datasets for insights.<br />
@@ -124,10 +130,6 @@ Virtual Health Assistants: AI chatbots for patient guidance.<br />
 
 ### AI in Finance<hr />
 Algorithmic Trading: AI-powered automated stock trading.<br />
-<p align="center">
-  <img src="https://www.solulab.com/wp-content/uploads/2025/01/AI-in-Stock-Trading.png" width="650" alt="Algorithmic Trading: AI-powered automated stock trading">
-</p>
-
 Risk Assessment: AI evaluates creditworthiness.<br />
 Chatbots: AI-based customer service agents.<br />
 Fraud Prevention: Detecting suspicious transactions.<br />
