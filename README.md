@@ -157,13 +157,12 @@ Video Game AI: Adaptive NPCs and dynamic storytelling.<br />
 
 ### Ethical Considerations & Challenges<hr />
 Bias & Fairness: AI reflecting societal biases in data.<br />
+ - AI systems learn from data, and if that data contains biases, the AI can inherit and amplify them. Bias in AI arises when the system produces results that systematically favor or disadvantage certain groups due to imbalanced or flawed training data. Ensuring fairness in AI is a crucial challenge.<br />
+
 Privacy Issues: AI-driven surveillance and data misuse.<br />
 Job Displacement: Automation replacing human jobs.<br />
 AI Security Risks: Deepfakes, cyber threats, AI-based fraud.<br />
 
 ### Future of AI<hr />
-Explainable AI (XAI): Enhancing AI transparency.<br />
 AI & IoT Integration: Smart cities, connected devices.<br />
 AI in Space Exploration: Autonomous rovers, AI-driven discoveries.<br />
-AGI & Beyond: The path towards general artificial intelligence.<br />
-
