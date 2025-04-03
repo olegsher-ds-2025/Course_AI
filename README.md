@@ -11,8 +11,13 @@ Key Capabilities: Learning, reasoning, problem-solving, perception, language und
  - Sarcasm Detection: Identifies sarcasm in text, which is often challenging due to its subtlety.<br />
  - Opinion Mining: Extracts subjective information from text, often related to opinions.<br />
  - Polarity Detection: Classifies text as positive, negative, or neutral.<br />
+
 ### Sales Forecasting
+ - Sales forecasting is the process of estimating future revenue by predicting how much of a product or service will sell in the next week, month, quarter, or year.
+
 ### Price Optimization
+ - Price optimization is the process of using market and customer data to find the optimal price point for a product or service.
+
 ### Smart CyberSecurity
 ### Strong Competive Analysis
 ### Product Recomendation
@@ -22,8 +27,6 @@ Key Capabilities: Learning, reasoning, problem-solving, perception, language und
  - Context-Aware Recommender Systems: Takes context into account for personalized recommendations.<br />
 ### Automated Operations
 ### Informed Decision Making
-### Ehchanced In-Store Experience
-
 
 
 ### Types of AI:
