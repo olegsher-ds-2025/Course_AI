@@ -38,7 +38,8 @@ AI Security Risks: Deepfakes, cyber threats, AI-based fraud.<br />
 ### Informed Decision Making
 
 <hr />
-### Types of AI:<hr />
+
+### Types of AI: <hr />
 Narrow AI (Task-Specific)<br />
 General AI (Human-Level Intelligence, Future Concept)<br />
 Super AI (Beyond Human Intelligence, Theoretical)<br />
