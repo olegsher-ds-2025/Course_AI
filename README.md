@@ -3,6 +3,14 @@
 Definition: AI refers to the simulation of human intelligence in machines that can perform tasks typically requiring human cognition. <br />
 Key Capabilities: Learning, reasoning, problem-solving, perception, language understanding.
 
+### Ethical Considerations & Challenges<hr />
+Bias & Fairness: AI reflecting societal biases in data.<br />
+ - AI systems learn from data, and if that data contains biases, the AI can inherit and amplify them. Bias in AI arises when the system produces results that systematically favor or disadvantage certain groups due to imbalanced or flawed training data. Ensuring fairness in AI is a crucial challenge.<br />
+
+Privacy Issues: AI-driven surveillance and data misuse.<br />
+Job Displacement: Automation replacing human jobs.<br />
+AI Security Risks: Deepfakes, cyber threats, AI-based fraud.<br />
+
 ## Use cases:<hr />
 ### Chatbots for customer support
 ### Sentiment Analysis
@@ -155,13 +163,7 @@ AI-Generated Content: AI creating music, articles, and art.<br />
 Deepfake Technology: AI-enabled realistic media manipulations.<br />
 Video Game AI: Adaptive NPCs and dynamic storytelling.<br />
 
-### Ethical Considerations & Challenges<hr />
-Bias & Fairness: AI reflecting societal biases in data.<br />
- - AI systems learn from data, and if that data contains biases, the AI can inherit and amplify them. Bias in AI arises when the system produces results that systematically favor or disadvantage certain groups due to imbalanced or flawed training data. Ensuring fairness in AI is a crucial challenge.<br />
 
-Privacy Issues: AI-driven surveillance and data misuse.<br />
-Job Displacement: Automation replacing human jobs.<br />
-AI Security Risks: Deepfakes, cyber threats, AI-based fraud.<br />
 
 ### Future of AI<hr />
 AI & IoT Integration: Smart cities, connected devices.<br />
